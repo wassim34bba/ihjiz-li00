@@ -682,7 +682,7 @@ cursor: pointer;
   left: 0%;
   top: 70px;
 
-  min-width: 100px;
+  width: 250px;
   text-align: right;
 }
 #btn{
