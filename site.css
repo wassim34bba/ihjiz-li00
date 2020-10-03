@@ -677,14 +677,14 @@ cursor: pointer;
 
  color:#ff99ff;
 }
+
 .card-body{
-  left: 10%;
+  left: 0%;
   top: 70px;
 
-  width: 400px;
+  min-width: 100px;
   text-align: right;
 }
-
 #btn{
 margin-top: 10px;
 margin-left: 5%;
